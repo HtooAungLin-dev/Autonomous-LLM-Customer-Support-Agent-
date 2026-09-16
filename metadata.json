@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous LLM Customer Support Agent",
+  "description": "LLM-powered customer support agent with Pinecone vector retrieval, agentic tool-calling workflows, guardrails, and safety evaluation framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
